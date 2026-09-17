@@ -1,0 +1,5 @@
+# Direct dependencies; not a complete reproducibility lock.
+openai>=3.10,<4
+python-dotenv>=1.2,<2
+numpy>=2.4,<3
+sentence-transformers>=6.0,<7
