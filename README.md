@@ -1,4 +1,3 @@
-[Uploading README.md…]()
 # DeepSeek Research Agent Demo
 
 一个用于学习 LLM 应用开发的 Python 项目：将问题拆解为三个子任务，按依赖并发执行，按需压缩答案，最终生成 Markdown 报告。支持独立单次研究、带本地记忆的连续提问，以及独立的计算器工具调用演示。
